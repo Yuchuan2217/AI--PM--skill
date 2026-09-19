@@ -1,0 +1,4 @@
+interface:
+  display_name: "上市增长工作流"
+  short_description: "从 ICP、定位、上市节奏到增长飞轮、销售战卡和指标复盘的完整闭环"
+  default_prompt: "使用 $go-to-market-growth-workflow 帮我制定上市、增长和竞争应对方案。"

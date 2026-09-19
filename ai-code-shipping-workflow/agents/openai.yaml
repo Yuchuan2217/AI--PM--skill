@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 代码交付工作流"
+  short_description: "为 AI 生成代码补齐系统文档、安全性能审计、测试映射和上线发布包"
+  default_prompt: "使用 $ai-code-shipping-workflow 审计这个 AI 生成的代码库并生成可审阅的发布包。"

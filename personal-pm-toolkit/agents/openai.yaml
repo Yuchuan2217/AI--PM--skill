@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人 PM 工具"
+  short_description: "处理 PM 简历诊断与定向优化、文本校对以及法律草稿的边界"
+  default_prompt: "使用 $personal-pm-toolkit 帮我审查并定向优化这份 PM 简历。"

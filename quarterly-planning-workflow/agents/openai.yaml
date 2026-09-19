@@ -1,0 +1,4 @@
+interface:
+  display_name: "季度规划工作流"
+  short_description: "按季度完成市场扫描、战略取舍、商业模式、定价和风险验证"
+  default_prompt: "使用 $quarterly-planning-workflow 帮我完成本季度市场扫描、战略校准和定价复盘。"

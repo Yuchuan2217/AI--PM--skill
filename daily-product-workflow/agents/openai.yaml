@@ -1,0 +1,4 @@
+interface:
+  display_name: "日常产品工作流"
+  short_description: "从反馈、研究、机会判断到路线图和交付的持续产品工作闭环"
+  default_prompt: "使用 $daily-product-workflow 帮我完成本周产品发现、优先级判断和路线图更新。"
